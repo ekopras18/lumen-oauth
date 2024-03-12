@@ -1,8 +1,8 @@
 <?php
 
-namespace Dusterio\LumenPassport;
+namespace Ekopras18\LumenPassport;
 
-use Dusterio\LumenPassport\Console\Commands\Purge;
+use Ekopras18\LumenPassport\Console\Commands\Purge;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Connection;
 

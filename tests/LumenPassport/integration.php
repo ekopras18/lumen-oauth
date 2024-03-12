@@ -1,8 +1,8 @@
 <?php
 
-namespace Dusterio\LumenPassport\Tests;
+namespace Ekopras18\LumenPassport\Tests;
 
-use Dusterio\LumenPassport\LumenPassport;
+use Ekopras18\LumenPassport\LumenPassport;
 use Carbon\Carbon;
 use Laravel\Passport\Passport;
 use PHPUnit\Framework\TestCase;
